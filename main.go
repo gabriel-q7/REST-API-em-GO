@@ -4,4 +4,6 @@ func main() {
 	http.HandleFunc()
 }
 
-func 
+func getUsers(w http.ResponseWriter, r *http.Request) {
+
+}
